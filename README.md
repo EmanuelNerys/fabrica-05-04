@@ -1,2 +1,0 @@
-# fabrica
-banco de dados 
